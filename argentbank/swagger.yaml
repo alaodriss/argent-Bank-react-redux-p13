@@ -1,0 +1,8 @@
+# swagger: '2.0'
+# info:
+#   title: l'Api des Comptes en banques et des Transactions.
+#   description: Contains all available API endpoints in this codebase
+#   version: '1.0.0'
+#   termsOfService: 'http://swagger.io/terms/'
+# host: localhost:3001
+# basePath: /api/v1

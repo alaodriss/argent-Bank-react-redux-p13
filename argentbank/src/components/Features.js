@@ -65,7 +65,7 @@ function Features () {
             <h2 className="sr-only">Features</h2>
                 {infos.map((info) => {
                     return (
-                        <div className="feature-item">
+                        <div className="feature-item" key={info.id}>
                             <img src={info.icon} alt="Chat Icon" className="feature-icon"/>
                             <h3 className="feature-item-title">{info.text}</h3>
                             <p>
